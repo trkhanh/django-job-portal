@@ -17,7 +17,7 @@ get_schema_view = get_schema_view(
         default_version="v1",
         description="Jobs portal api description",
         terms_of_service="https://www.google.com/policies/terms/",
-        contact=openapi.Contact(email="contact@snipped.local"),
+        contact=openapi.Contact(email="contact@snipped.locale"),
         license=openapi.Lincense(name="BSD License")
     ),
     public=True,
